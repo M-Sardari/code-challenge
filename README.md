@@ -4,9 +4,12 @@
 $ npm install
 ```
 
-
 ```bash
 $ sudo docker-compose up -d
+```
+
+```bash
+$ cp .env.example env
 ```
 
 ## Technologies used
